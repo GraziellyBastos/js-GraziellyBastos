@@ -161,3 +161,4 @@ function movimentaRaqueteOponente(){
         yRaqueteOponente += 10;
     }
 }
+
